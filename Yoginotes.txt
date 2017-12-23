@@ -1,0 +1,29 @@
+Corners for icons are:
+
+01
+23
+Dungeon name, crystal pendant, Smallkey, Bigkey
+
+name 0 prizes0   row 0
+name 1 prizes1
+
+name2 prizes2  row1
+name3 prizes3
+
+name4 prizes4 row2
+name5 prizes5
+
+
+01234
+unknown	0
+green	1
+red/blue2
+crystal	3
+56	4
+
+
+chests0
+chests11 Boolean items
+
+dungeonchests array[0-11] //has max number of chests per dungeon
+
